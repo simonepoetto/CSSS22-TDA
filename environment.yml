@@ -1,0 +1,51 @@
+name: tda
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2022.4.26=hecd8cb5_0
+  - certifi=2022.6.15=py39hecd8cb5_0
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1p=hca72f7f_0
+  - pip=21.2.4=py39hecd8cb5_0
+  - python=3.9.12=hdfd78df_1
+  - readline=8.1.2=hca72f7f_1
+  - setuptools=61.2.0=py39hecd8cb5_0
+  - sqlite=3.38.5=h707629a_0
+  - tk=8.6.12=h5d9f67b_0
+  - tzdata=2022a=hda174b7_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=hca72f7f_1
+  - zlib=1.2.12=h4dc903c_2
+  - pip:
+    - charset-normalizer==2.1.0
+    - cycler==0.11.0
+    - deepdish==0.3.7
+    - fonttools==4.33.3
+    - idna==3.3
+    - joblib==1.1.0
+    - kiwisolver==1.4.3
+    - lxml==4.9.1
+    - matplotlib==3.5.2
+    - nibabel==4.0.1
+    - nilearn==0.9.1
+    - nltools==0.4.6
+    - numexpr==2.8.3
+    - numpy==1.23.0
+    - packaging==21.3
+    - pandas==1.4.3
+    - pillow==9.2.0
+    - pynv==0.2
+    - pyparsing==3.0.9
+    - python-dateutil==2.8.2
+    - pytz==2022.1
+    - requests==2.28.1
+    - scikit-learn==1.1.1
+    - scipy==1.8.1
+    - seaborn==0.11.2
+    - six==1.16.0
+    - tables==3.7.0
+    - threadpoolctl==3.1.0
+    - urllib3==1.26.9
+prefix: /Users/Esh/anaconda3/envs/tda
