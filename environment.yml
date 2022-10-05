@@ -1,23 +1,23 @@
-name: tda
+name: /Users/Esh/Documents/conferences/csss2022/projects/CSSS22-TDA/env
 channels:
   - defaults
 dependencies:
-  - ca-certificates=2022.4.26=hecd8cb5_0
-  - certifi=2022.6.15=py39hecd8cb5_0
-  - libcxx=12.0.0=h2f01273_0
-  - libffi=3.3=hb1e8313_2
-  - ncurses=6.3=hca72f7f_2
-  - openssl=1.1.1p=hca72f7f_0
-  - pip=21.2.4=py39hecd8cb5_0
-  - python=3.9.12=hdfd78df_1
-  - readline=8.1.2=hca72f7f_1
-  - setuptools=61.2.0=py39hecd8cb5_0
-  - sqlite=3.38.5=h707629a_0
-  - tk=8.6.12=h5d9f67b_0
-  - tzdata=2022a=hda174b7_0
-  - wheel=0.37.1=pyhd3eb1b0_0
-  - xz=5.2.5=hca72f7f_1
-  - zlib=1.2.12=h4dc903c_2
+  - ca-certificates=2022.4.26
+  - certifi=2022.6.15
+  - libcxx=12.0.0
+  - libffi=3.3
+  - ncurses=6.3
+  - openssl=1.1.1p
+  - pip=21.2.4
+  - python=3.9.12
+  - readline=8.1.2
+  - setuptools=61.2.0
+  - sqlite=3.38.5
+  - tk=8.6.12
+  - tzdata=2022a
+  - wheel=0.37.1
+  - xz=5.2.5
+  - zlib=1.2.12
   - pip:
     - appnope==0.1.3
     - argon2-cffi==21.3.0
@@ -120,4 +120,4 @@ dependencies:
     - wcwidth==0.2.5
     - webencodings==0.5.1
     - widgetsnbextension==3.6.1
-prefix: /Users/Esh/anaconda3/envs/tda
+prefix: /Users/Esh/Documents/conferences/csss2022/projects/CSSS22-TDA/env
