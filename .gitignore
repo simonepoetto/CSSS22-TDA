@@ -142,6 +142,9 @@ dmypy.json
 */__pycache__/
 __pycache__/
 
+#nilearn
+code/nilearn_cache/
+
 
 #data folder
 data/
